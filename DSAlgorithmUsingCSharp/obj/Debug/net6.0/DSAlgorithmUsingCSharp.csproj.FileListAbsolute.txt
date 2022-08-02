@@ -1,0 +1,15 @@
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/bin/Debug/net6.0/DSAlgorithmUsingCSharp
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/bin/Debug/net6.0/DSAlgorithmUsingCSharp.deps.json
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/bin/Debug/net6.0/DSAlgorithmUsingCSharp.runtimeconfig.json
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/bin/Debug/net6.0/DSAlgorithmUsingCSharp.dll
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/bin/Debug/net6.0/DSAlgorithmUsingCSharp.pdb
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.csproj.AssemblyReference.cache
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.AssemblyInfoInputs.cache
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.AssemblyInfo.cs
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.csproj.CoreCompileInputs.cache
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.dll
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/refint/DSAlgorithmUsingCSharp.dll
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.pdb
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/DSAlgorithmUsingCSharp.genruntimeconfig.cache
+/Users/sshankhd/MyApp/DataStructure/DSAlgorithmUsingCSharp/obj/Debug/net6.0/ref/DSAlgorithmUsingCSharp.dll
